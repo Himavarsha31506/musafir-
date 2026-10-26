@@ -1,0 +1,6 @@
+{
+  "name": "Musafir (मुसाफ़िर) – AI Travel Planner",
+  "description": "Musafir is an AI-powered personalized travel planning and discovery platform. Har Safar, Aapke Andaaz Mein. Plan tailor-made itineraries, discover hidden gems, and travel your way.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
